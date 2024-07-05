@@ -1,0 +1,51 @@
+button {
+    background-color: orange;
+    border-radius: 100px;
+    height: 2.5em;
+}
+
+body {
+    display: block;
+    text-align: center;
+    background-image: url(https://s2.qwant.com/thumbr/474x266/7/a/004d2392c20852ca5590bb7a0e9db9296073550ebd72365459c050febafede/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.gEJu3xQ8bSsl3UTo0plq4QHaEK%26pid%3DApi&q=0&b=1&p=0&a=0);
+    background-size: cover;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+img {
+    width: 650px;
+    border-style: solid;
+    border-color: crimson;
+    border-width: 1em;
+    border-radius: 30% 70% 70% 30% / 30% 58% 42% 70%;
+
+}
+
+
+label {
+    font-size: 3.5em;
+    background-color: blanchedalmond;
+}
+
+.image1 {
+    width: 400px;
+
+}
+
+.img1 {
+
+    width: 400px;
+}
+
+.fin{
+    z-index: -1000000000;
+    
+
+    
+}
+
+
